@@ -1,0 +1,5 @@
+{
+  "name": "Pending Bill Analyzer",
+  "description": "AI-powered tool to extract and organize MR-wise pending bill statements from PDF reports for easy WhatsApp sharing.",
+  "requestFramePermissions": []
+}
